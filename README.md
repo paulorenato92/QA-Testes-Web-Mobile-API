@@ -34,7 +34,7 @@ Projeto prático de Quality Assurance desenvolvido durante a formação na Tripl
 
 ## Documentação
 
-As planilhas com os casos de teste e os resultados serão disponibilizadas neste repositório.
+- [📊 Consultar a planilha de testes Web, Mobile e API](./QA-Testes-Web-Mobile-API.xlsx)
 
 ## Objetivo
 
